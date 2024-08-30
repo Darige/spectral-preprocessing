@@ -1,9 +1,9 @@
 # Spectral-preprocessing
-Code for Spectral data preprocessing and augmentation methods for deep learning
+Code for my UCL dissertation
 
-The Jupyter Notebook ('ROF-DENOISING.ipynb') gives an introduction to the total variation denoising problem and the spectral framework derived from it
+Title: Spectral data preprocessing and augmentation methods for deep learning
 
-
+Note: The Jupyter Notebook ('ROF-DENOISING.ipynb') gives an introduction to the total variation denoising problem and the spectral framework derived from it
 
 Abstract:
 
