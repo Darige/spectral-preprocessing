@@ -1,4 +1,4 @@
-# Spectral-preprocessing
+# Spectral-preprocessing and spectral augmentation
 Code for my UCL dissertation
 
 Title: Spectral data preprocessing and augmentation methods for deep learning
