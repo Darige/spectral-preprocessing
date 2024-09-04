@@ -16,11 +16,11 @@ All the helper functions for our experiments can be found in:
 ```
 pock.py
 ```
-## Image classification
+# Image classification
 
 We perform image classification on CIFAR-10, flowers102 and Imagenette.
 
-# CIFAR-10 code
+CIFAR-10 code
 
 Base model
 ```
@@ -35,7 +35,7 @@ Test script
 test_pt.py
 ```
 
-# flowers102 code
+flowers102 code
 
 Base model
 ```
@@ -51,7 +51,7 @@ test_flowers102.py
 ```
 
 
-# Imagenette Code
+Imagenette Code
 
 Base model
 ```
